@@ -1,15 +1,28 @@
-# Working with the react context api
-> In this project we use the react context api to implement a language switcher which switches the language of the application between spanish and english.
+# Todo List Application in Laravel and Vanilla PHP
 
-## Requirements
+This is a case study app to explain the differences between vanilla PHP and Laravel and why to switch to Laravel
 
-- Have node installed (v7, ^v8)
-- Basic knowledge of javascript and react
+
+### Prerequisites
+
+* PHP installed on your machine. [Installation Guide](http://php.net/manual/en/install.php).
+* MySQL installed on your machine. [Download MySQL](https://www.mysql.com/downloads/).
+* Composer installed on your machine. [Installation Guide](https://getcomposer.org/download/).
+* Laravel installed on your machine. [Installation Guide](https://laravel.com/docs/5.6/).
+* Knowlegde of the PHP Programming language.
+* Basic understanding of MySQL.
 
 ## Getting Started
-To get up and running, simply run the following commands, first close the repository and run the following commands
 
-- `npm install`
-- `npm run start`
+To get started with the project, make sure you have all the prerequisite above.
 
-And you are good to go. Enjoy
+* Clone this project to your machine
+* Follow the instructions [here](https://github.com/ichtrojan/Todolist/blob/master/vanilla/readme.md) to setup the vanilla PHP version.
+* Follow the instructions [here](https://github.com/ichtrojan/Todolist/blob/master/laravel/readme.md) to setup the Laravel version.
+
+
+## Built With
+
+* [PHP](http://php.net/) - Server side scripting langiage
+* [Laravel](https://laravel.com) - A PHP Framework
+* [MySQL](https://www.mysql.com) - Database
