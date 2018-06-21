@@ -17,8 +17,8 @@ This is a case study app to explain the differences between vanilla PHP and Lara
 To get started with the project, make sure you have all the prerequisite above.
 
 * Clone this project to your machine
-* Follow the instructions [here](./blob/master/vanilla/readme.md) to setup the vanilla PHP version.
-* Follow the instructions [here](./blob/master/laravel/readme.md) to setup the Laravel version.
+* Follow the instructions [here](https://github.com/neoighodaro-articles/migrating-to-laravel/blob/master/vanilla/readme.md) to setup the vanilla PHP version.
+* Follow the instructions [here](https://github.com/neoighodaro-articles/migrating-to-laravel/blob/master/laravel/readme.md) to setup the Laravel version.
 
 
 ## Built With
